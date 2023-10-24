@@ -1,6 +1,6 @@
 # Portfolio
 
-## Название проекта/ Описание/ Стек                                                           
+## Project Name/Description/ Stack                                                           
 
 1. [Music](https://github.com/ElenBob03/Portfolio/tree/main/Music)/ Two large cities users comparison for music aplication/ `Python` `Pandas`                                             
 2. [Bank](https://github.com/ElenBob03/Portfolio/tree/main/Bank)/ Bank borrowers reliability reseach/ `Data preprocessing` `Python` `Pandas`                       
